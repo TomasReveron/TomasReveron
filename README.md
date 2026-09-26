@@ -35,7 +35,7 @@
   
   <p align="center">
     <!-- Lenguajes más usados (Gráfico de Torta) -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoshiHD4K&theme=radical" alt="Repo Language Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomasReveron&theme=radical" alt="Repo Language Stats" />
   </p>
 
   <br>
